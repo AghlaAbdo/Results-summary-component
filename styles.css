@@ -129,6 +129,7 @@ h2 {
     padding: 15px;
     margin-top: 40px;
     border-radius: 40px;
-
-    
+}
+.btn:hover {
+    background: linear-gradient(180deg, #6743FF, #312CE9);
 }
