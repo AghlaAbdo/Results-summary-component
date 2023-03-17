@@ -11,7 +11,6 @@ body {
 .countainer {
     background-color: white;
     display: flex;
-    /* gap: 30px; */
     width: 736px;
     height: 512px;
     margin: 200px auto;
@@ -148,4 +147,5 @@ h2 {
 @media screen and (max-width: 600px) {
     .countainer {
         width: 100%;
+}
 }
